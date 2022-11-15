@@ -1,1 +1,4 @@
 I have added a very impo function here
+TwoFunction
+Three functionError function
+Unnecessary function
