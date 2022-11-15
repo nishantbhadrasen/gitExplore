@@ -1,0 +1,9 @@
+#This is a comment.
+*.js
+node_modules/
+assests/videos/
+*.mp4
+!app.js
+DS_Store
+*.log
+*.php
