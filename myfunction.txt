@@ -1,8 +1,15 @@
+
 I have added a very very  impo function here
+
+
+
 TwoFunction
 Three functionError function
 Unnecessary function
 
 Added a new chart function in our branch
 
+
 Added a code for logout
+
+
